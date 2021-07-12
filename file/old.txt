@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Quran</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+    <--!
+    <p align="center">
+      <h1 align="center">Quran Website</h1>
+      <h3 align="center">Calling you to success</h3>
+    </p>
+    -->
+
+    <div class="top">
+      ekhane class lekhsi amra "top".
+      ami ekhon script.css e jabo, sekhane giye ei class take mention kore bolbo je ei class jukto sob element er background color blue jeno hoy. ok ?
+      ok
+      Okkkk
+      xdfcgvbhnkmzsxdcf<br>
+      xdcfvgjh<br>
+
+    </div>
+    <div class="left">
+      <ol>
+        <li>Surah Fatiha</li>
+        <li>Surah Baqarah</li>
+        <li>Surah Al Imran</li>
+        <li>SUrah An Nisaa</li>
+
+      </ol>
+    </div>
+    <div class="right">
+      ekhane class lekhsi amra "top".
+      ami ekhon script.css e jabo, sekhane giye ei class take mention kore bolbo je ei class jukto sob element er background color blue jeno hoy. ok ?
+      ok
+      Okkkk
+      xdfcgvbhnkmzsxdcf<br>
+      xdcfvgjh<br>
+
+    </div>
+        <div class="bottom">
+      ekhane class lekhsi amra "top".
+      ami ekhon script.css e jabo, sekhane giye ei class take mention kore bolbo je ei class jukto sob element er background color blue jeno hoy. ok ?
+      ok
+      Okkkk
+      xdfcgvbhnkmzsxdcf<br>
+      xdcfvgjh<br>
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
