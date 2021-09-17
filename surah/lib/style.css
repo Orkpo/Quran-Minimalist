@@ -9,10 +9,9 @@ body{
   background-size: cover;
   background-position: center;
   position: relative;
-  overflow: hidden;
   text-align: center;
   font-family: 'Mate SC', serif;
-  //background-color: aqua;
+  
   color: green;
   padding: 10px 5px;
 }
