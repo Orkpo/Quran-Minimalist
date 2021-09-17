@@ -6,6 +6,7 @@ body{
 
   width: auto;
   height:auto;
+  overflow: hidden;
   background-size: cover;
   background-position: center;
   position: relative;
