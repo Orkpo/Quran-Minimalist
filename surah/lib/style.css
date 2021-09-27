@@ -10,13 +10,9 @@ html{
 
 .top{
 
-  width: auto;
-  height:auto;
-  overflow: hidden;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: 'Mate SC', serif;
   
   color: green;
@@ -25,9 +21,11 @@ html{
 
 .left {
   
- width: auto;
 
- text-decoration: none;
+width: auto;
+ gap: 5px;
+
+
  background-color: #2c2f33;
   
   //margin-right: 5px;
