@@ -24,8 +24,7 @@ html{
 
 width: auto;
  gap: 5px;
-
-
+ transition: width 1s;
  background-color: #2c2f33;
   
   //margin-right: 5px;
@@ -52,11 +51,13 @@ width: auto;
   cursor: pointer;
   border-radius: 20px;
   width: 180px;
+  transition-timing-function: ease;
 }
 
 .common_surah_style:hover{
 background-color: #23272a;
    transition: 0.6s;
+   width: 300px;
 
 }
 
